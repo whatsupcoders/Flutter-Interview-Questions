@@ -25,7 +25,7 @@ Adhering to the following process is the best way to get your work included in t
 1. Do not commit on README, use SOURCE.md
 2. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description.
 3. Check previous suggestions before making a new one, as yours may be a duplicate.
-4. Use the following format: * Interview Question?
+4. Use the following format:[ * Interview Question?]
 5. Check your spelling and grammar.
 6. Make sure your text editor is set to remove trailing whitespace.
 
