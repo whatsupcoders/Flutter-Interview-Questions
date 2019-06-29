@@ -46,8 +46,7 @@ Title: Flutter Interview Questions
 * What is the role of a Change Notifier Provider?
 * What is a ValueListenableBuilder?
 * What is an AspectRatio?
-
-
+* List a few plugins developed by the Flutter Team?
 
 
 ## Getting Involved
