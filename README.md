@@ -52,6 +52,7 @@ Title: Flutter Interview Questions
 * What is an AspectRatio?
 * List a few plugins developed by the Flutter Team?
 * How does Dart AOT works?
+* Difference between var and dynamic type in Dart?
 
 
 ## Getting Involved
