@@ -53,6 +53,7 @@ Title: Flutter Interview Questions
 * List a few plugins developed by the Flutter Team?
 * How does Dart AOT works?
 * Difference between var and dynamic type in Dart?
+* Difference in between 'const' and 'final' keyword in Dart?
 
 
 ## Getting Involved
