@@ -56,6 +56,8 @@ Title: Flutter Interview Questions
 * Difference in between 'const' and 'final' keyword in Dart?
 * what is a Null-aware Operator?
 * List Flutter's build modes?
+* What is an Isolate?
+* Views on LayoutBuilder?
 
 
 ## Getting Involved
