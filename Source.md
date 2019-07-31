@@ -26,3 +26,5 @@ title: Flutter Interview Questions
 * What is the role of a Change Notifier Provider?
 * What is a ValueListenableBuilder?
 * What is an AspectRatio?
+* How would you access Stateful Widget properties from it's State?
+* What is Inherited Widget in Flutter?
