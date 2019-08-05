@@ -29,5 +29,4 @@ title: Flutter Interview Questions
 * How would you access Stateful Widget properties from it's State?
 * What is InheritedWidget in Flutter?
 * Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
-* What is a Future in Dart?
 * Mention two or more operations that would require one to use or return a Future?
