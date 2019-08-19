@@ -58,6 +58,10 @@ Title: Flutter Interview Questions
 * List Flutter's build modes?
 * What is an Isolate?
 * Views on LayoutBuilder?
+* How would you access Stateful Widget properties from it's State?
+* What is InheritedWidget in Flutter?
+* Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
+* Mention two or more operations that would require one to use or return a Future?
 
 
 ## Getting Involved
