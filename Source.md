@@ -26,3 +26,7 @@ title: Flutter Interview Questions
 * What is the role of a Change Notifier Provider?
 * What is a ValueListenableBuilder?
 * What is an AspectRatio?
+* How would you access Stateful Widget properties from it's State?
+* What is InheritedWidget in Flutter?
+* Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
+* Mention two or more operations that would require one to use or return a Future?
