@@ -62,6 +62,8 @@ Title: Flutter Interview Questions
 * What is InheritedWidget in Flutter?
 * Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
 * Mention two or more operations that would require one to use or return a Future?
+* What is the purpose of SafeArea?
+* when to use mainAxisSize?
 
 
 ## Getting Involved
