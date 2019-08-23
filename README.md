@@ -64,6 +64,7 @@ Title: Flutter Interview Questions
 * Mention two or more operations that would require one to use or return a Future?
 * What is the purpose of SafeArea?
 * when to use mainAxisSize?
+* SizedBox VS Container?
 
 
 ## Getting Involved
