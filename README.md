@@ -65,6 +65,7 @@ Title: Flutter Interview Questions
 * What is the purpose of SafeArea?
 * when to use mainAxisSize?
 * SizedBox VS Container?
+* List the Visibility widgets in flutter and the differences? 
 
 
 ## Getting Involved
