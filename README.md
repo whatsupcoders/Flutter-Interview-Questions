@@ -66,6 +66,7 @@ Title: Flutter Interview Questions
 * when to use mainAxisSize?
 * SizedBox VS Container?
 * List the Visibility widgets in flutter and the differences? 
+* Can we use Color and Decoration property simultaneously in the Container? Explain
 
 
 ## Getting Involved
