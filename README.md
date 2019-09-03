@@ -68,6 +68,7 @@ Title: Flutter Interview Questions
 * List the Visibility widgets in flutter and the differences? 
 * Can we use Color and Decoration property simultaneously in the Container? Explain
 * Inorder for the CrossAxisAlignment.baseline to work what is another property that we need to set?
+* when should we use resizeToAvoidBottomInset? 
 
 
 ## Getting Involved
