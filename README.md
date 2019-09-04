@@ -72,6 +72,18 @@ Title: Flutter Interview Questions
 * What is the difference between 'as','show' and 'hide' in an import statement?
 
 
+---
+Title: Animation Interview Questions
+---
+
+* what is vsync?
+* when does the animation reach "completed" or "dismissed" status?
+* Difference between AnimationController and Animation?
+* When to use 'SingleTickerProviderStateMixin' and 'TickerProviderStateMixin'?
+* Define TweenAnimation? 
+* State the importance of Ticker?
+* Why do we need mixins?
+
 ## Getting Involved
 
   1. [How to Contribute](https://github.com/whatsupcoders/Flutter-Interview-Questions/blob/master/CONTRIBUTING.md)
