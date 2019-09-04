@@ -45,7 +45,6 @@ Title: Flutter Interview Questions
 * What are Global Keys?
 * When to use main Axis Alignment and cross Axis Alignment ?
 * when do we use double.INFINITY?
-* What is Ticker, Tween and Animated Builder ?
 * What is an Ephemeral state?
 * What is the role of a Change Notifier Provider?
 * What is a ValueListenableBuilder?
@@ -72,7 +71,6 @@ Title: Flutter Interview Questions
 * What is the difference between 'as','show' and 'hide' in an import statement?
 
 
----
 Title: Animation Interview Questions
 ---
 
