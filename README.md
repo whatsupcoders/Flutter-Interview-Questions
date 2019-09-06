@@ -69,6 +69,8 @@ Title: Flutter Interview Questions
 * Inorder for the CrossAxisAlignment.baseline to work what is another property that we need to set?
 * when should we use resizeToAvoidBottomInset? 
 * What is the difference between 'as','show' and 'hide' in an import statement?
+* What is the importance of TextEditingController?
+* why do we use "Reverse" property in Listview?
 
 
 Title: Animation Interview Questions
@@ -81,6 +83,11 @@ Title: Animation Interview Questions
 * Define TweenAnimation? 
 * State the importance of Ticker?
 * Why do we need mixins?
+
+Title: FireStore Interview Questions
+---
+
+* Difference between getDocuments() vs snapshots()?
 
 ## Getting Involved
 
