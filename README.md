@@ -46,7 +46,7 @@ Title: Flutter Interview Questions
 * When to use main Axis Alignment and cross Axis Alignment ?
 * when do we use double.INFINITY?
 * What is an Ephemeral state?
-* What is the role of a Change Notifier Provider?
+* What is the role of a ChangeNotifier and notifyListeners in Provider?
 * What is a ValueListenableBuilder?
 * What is an AspectRatio?
 * List a few plugins developed by the Flutter Team?
@@ -71,6 +71,7 @@ Title: Flutter Interview Questions
 * What is the difference between 'as','show' and 'hide' in an import statement?
 * What is the importance of TextEditingController?
 * why do we use "Reverse" property in Listview?
+* Difference between Modal and Persistent BottomSheet with an example?
 
 
 Title: Animation Interview Questions
