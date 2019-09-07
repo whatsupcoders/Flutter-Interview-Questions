@@ -58,7 +58,6 @@ Title: Flutter Interview Questions
 * What is an Isolate?
 * Views on LayoutBuilder?
 * How would you access Stateful Widget properties from it's State?
-* What is InheritedWidget in Flutter?
 * Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
 * Mention two or more operations that would require one to use or return a Future?
 * What is the purpose of SafeArea?
@@ -72,6 +71,8 @@ Title: Flutter Interview Questions
 * What is the importance of TextEditingController?
 * why do we use "Reverse" property in Listview?
 * Difference between Modal and Persistent BottomSheet with an example?
+* How is Inherited Widget different from Provider?
+* what is a UnmodifiableListView?
 
 
 Title: Animation Interview Questions
