@@ -44,7 +44,7 @@ Title: Flutter Interview Questions
 * What are keys in Flutter and when to use it ?
 * What are Global Keys?
 * When to use main Axis Alignment and cross Axis Alignment ?
-* when do we use double.INFINITY?
+* When do we use double.INFINITY?
 * What is an Ephemeral state?
 * What is the role of a ChangeNotifier and notifyListeners in Provider?
 * What is a ValueListenableBuilder?
@@ -53,7 +53,7 @@ Title: Flutter Interview Questions
 * How does Dart AOT works?
 * Difference between var and dynamic type in Dart?
 * Difference in between 'const' and 'final' keyword in Dart?
-* what is a Null-aware Operator?
+* What is a Null-aware Operator?
 * List Flutter's build modes?
 * What is an Isolate?
 * Views on LayoutBuilder?
@@ -61,26 +61,26 @@ Title: Flutter Interview Questions
 * Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
 * Mention two or more operations that would require one to use or return a Future?
 * What is the purpose of SafeArea?
-* when to use mainAxisSize?
+* When to use mainAxisSize?
 * SizedBox VS Container?
 * List the Visibility widgets in flutter and the differences? 
 * Can we use Color and Decoration property simultaneously in the Container? Explain
 * Inorder for the CrossAxisAlignment.baseline to work what is another property that we need to set?
-* when should we use resizeToAvoidBottomInset? 
+* When should we use resizeToAvoidBottomInset? 
 * What is the difference between 'as','show' and 'hide' in an import statement?
 * What is the importance of TextEditingController?
-* why do we use "Reverse" property in Listview?
+* Why do we use "Reverse" property in Listview?
 * Difference between Modal and Persistent BottomSheet with an example?
 * How is Inherited Widget different from Provider?
-* what is a UnmodifiableListView?
+* What is a UnmodifiableListView?
 * Difference between these operators "?? and ?."
 
 
 Title: Animation Interview Questions
 ---
 
-* what is vsync?
-* when does the animation reach "completed" or "dismissed" status?
+* What is vsync?
+* When does the animation reach "completed" or "dismissed" status?
 * Difference between AnimationController and Animation?
 * When to use 'SingleTickerProviderStateMixin' and 'TickerProviderStateMixin'?
 * Define TweenAnimation? 
