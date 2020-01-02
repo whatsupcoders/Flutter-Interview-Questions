@@ -2,31 +2,28 @@
 title: Flutter Interview Questions
 ---
 
-* What is the difference between Stateless and Stateful Widget in Flutter?
-* Explain Stateful Widget Lifecycle?
-* When to use WidgetsBindingObserver?
-* What is a Flutter Tree Shaking?
-* What is a Spacer Widget?
-* Difference between HotRestart and Hot Reload?
-* What is an Inherited Widget and list some examples?
-* Why is the build() method on State and not Stateful Widget?
-* What is a Pub file in Dart?
+* What is the difference between a `StatelessWidget` and a `StatefulWidget` in Flutter?
+* Explain the  Stateful Widget Lifecycle?
+* When do you use the `WidgetsBindingObserver`?
+* What is Flutter tree shaking?
+* What is a `Spacer` widget?
+* What is the difference between hot restart and hot reload?
+* What is an `InheritedWidget`? List some examples.
+* Why is the `build()` method on `State` and not `StatefulWidget`s?
+* What is a pubspec file in Dart?
 * How is Flutter native?
-* What is a Navigator and Routes in Flutter?
-* What is a PageRoute?
-* Explain async,await and Future?
-* How do I update ListView dynamically?
-* What is a Streams?
-* What are keys in Flutter and when to use it ?
-* What are Global Keys?
-* When to use main Axis Alignment and cross Axis Alignment ?
-* when do we use double.INFINITY?
-* What is Ticker, Tween and Animated Builder ?
-* What is an Ephemeral state?
-* What is the role of a Change Notifier Provider?
-* What is a ValueListenableBuilder?
-* What is an AspectRatio?
-* How would you access Stateful Widget properties from it's State?
-* What is InheritedWidget in Flutter?
-* Is there a suggested limit to the number of FloatingActionButtons a screen can have?. Give reason(s) for your answer
-* Mention two or more operations that would require one to use or return a Future?
+* What is a `Navigator` and what are `Routes` in Flutter?
+* What is a `PageRoute`?
+* Explain `async`, `await` and `Future`s.
+* How can you update a `ListView` dynamically?
+* What is a `Stream`?
+* What are keys in Flutter and when should you use it?
+* What are `GlobalKeys`?
+* When should you use `mainAxisAlignment` and `crossAxisAlignment`?
+* When can you use `double.INFINITY`?
+* What is `Ticker`, `Tween` and `AnimatedBuilder`?
+* What is ephemeral state?
+* What is an `AspectRatio` widget used for?
+* How would you access `StatefulWidget` properties from its State?
+* Is there a suggested limit to the number of `FloatingActionButton`s a screen can have? Give a reason(s) for your answer
+* Mention two or more operations that would require you to use or return a Future.
