@@ -52,7 +52,7 @@ Title: Flutter Interview Questions
 * Is there a suggested limit to the number of FloatingActionButtons a screen can have? Give a reason(s) for your answer
 * Mention two or more operations that would require you to use or return a Future.
 * What is the purpose of a SafeArea?
-* when to use a mainAxisSize?
+* When to use a mainAxisSize?
 * SizedBox VS Container?
 * List the Visibility widgets in flutter and the differences? 
 * Can we use Color and Decoration property simultaneously in the Container? Explain
@@ -60,18 +60,18 @@ Title: Flutter Interview Questions
 * when should we use a resizeToAvoidBottomInset? 
 * What is the difference between 'as','show' and 'hide' in an import statement?
 * What is the importance of a TextEditingController?
-* why do we use a "Reverse" property in a Listview?
+* Why do we use a "Reverse" property in a Listview?
 * Difference between a Modal and Persistent BottomSheet with an example?
 * How is an Inherited Widget different from a Provider?
-* what is an UnmodifiableListView?
+* What is an UnmodifiableListView?
 * Difference between these operators "?? and ?."
 
 
 Title: Animation Interview Questions
 ---
 
-* what is vsync?
-* when does the animation reach "completed" or "dismissed" status?
+* What is vsync?
+* When does the animation reach "completed" or "dismissed" status?
 * Difference between AnimationController and Animation?
 * When to use 'SingleTickerProviderStateMixin' and 'TickerProviderStateMixin'?
 * Define TweenAnimation? 
