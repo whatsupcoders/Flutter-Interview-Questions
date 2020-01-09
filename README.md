@@ -65,6 +65,8 @@ Title: Flutter Interview Questions
 * How is an Inherited Widget different from a Provider?
 * What is an `UnmodifiableListView`?
 * Difference between these operators "?? and ?."
+* What is the purpose of `ModalRoute.of()`?
+* Difference between a `Navigator.pushNamed` and `Navigator.pushReplacementNamed`?
 
 
 Title: Animation Interview Questions
