@@ -67,6 +67,7 @@ Title: Flutter Interview Questions
 * Difference between these operators "?? and ?."
 * What is the purpose of `ModalRoute.of()`?
 * Difference between a `Navigator.pushNamed` and `Navigator.pushReplacementNamed`?
+* Difference between a `Single Instance` and `Scoped Instance` ?
 
 
 Title: Animation Interview Questions
